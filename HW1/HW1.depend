@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1551886682 source:c:\users\talha\onedrive\masaüstü\hw1\term.cpp
+	"Term.hpp"
+
+1551887110 c:\users\talha\onedrive\masaüstü\hw1\term.hpp
+	<ostream>
+
+1552508330 source:c:\users\talha\onedrive\masaüstü\hw1\main_linkedlist.cpp
+	<iostream>
+	"LinkedList.hpp"
+
+1552508475 c:\users\talha\onedrive\masaüstü\hw1\linkedlist.hpp
+	<iostream>
+	"Node.hpp"
+
+1552142421 c:\users\talha\onedrive\masaüstü\hw1\node.hpp
+	<iostream>
+
+1552545618 source:c:\users\talha\onedrive\masaüstü\hw1\main_polynomial.cpp
+	<iostream>
+	"Polynomial.hpp"
+
+1551894276 c:\users\talha\onedrive\masaüstü\hw1\polynomial.hpp
+	<iostream>
+	<cstdlib>
+	"LinkedList.hpp"
+	"Term.hpp"
+
+1552545474 source:c:\users\talha\onedrive\masaüstü\hw1\polynomial.cpp
+	"Polynomial.hpp"
+
+1552545618 source:c:\users\talha\onedrive\masaüstü\c++\hw1\main_polynomial.cpp
+	<iostream>
+	"Polynomial.hpp"
+
+1551894276 c:\users\talha\onedrive\masaüstü\c++\hw1\polynomial.hpp
+	<iostream>
+	<cstdlib>
+	"LinkedList.hpp"
+	"Term.hpp"
+
+1552508475 c:\users\talha\onedrive\masaüstü\c++\hw1\linkedlist.hpp
+	<iostream>
+	"Node.hpp"
+
+1552142421 c:\users\talha\onedrive\masaüstü\c++\hw1\node.hpp
+	<iostream>
+
+1551887110 c:\users\talha\onedrive\masaüstü\c++\hw1\term.hpp
+	<ostream>
+
+1552545825 source:c:\users\talha\onedrive\masaüstü\c++\hw1\polynomial.cpp
+	"Polynomial.hpp"
+
+1551886682 source:c:\users\talha\onedrive\masaüstü\c++\hw1\term.cpp
+	"Term.hpp"
+
